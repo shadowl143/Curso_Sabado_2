@@ -47,8 +47,6 @@ resultado_residuo = i_number % 2 # pares impares<
 variables_complejas = 2j #complex
 
 print(variables_complejas * 2j)
-
-
 print(i_number * numero_decimal)
 # print(10/3)
 # print(resultado_division_enteros)
